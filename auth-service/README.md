@@ -1,2 +1,2 @@
 # auth-service Documentation
-Updated for KOR-2021
+Updated for KOR-2022
