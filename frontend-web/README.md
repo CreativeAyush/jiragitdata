@@ -1,2 +1,2 @@
 # frontend-web Documentation
-Updated for KOR-2047
+Updated for KOR-2048
