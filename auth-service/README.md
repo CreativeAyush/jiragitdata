@@ -1,2 +1,2 @@
 # auth-service Documentation
-Updated for KOR-2051
+Updated for KOR-2052
