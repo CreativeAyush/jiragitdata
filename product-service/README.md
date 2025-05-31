@@ -1,2 +1,2 @@
 # product-service Documentation
-Updated for KOR-2053
+Updated for KOR-2054
