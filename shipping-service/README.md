@@ -1,2 +1,2 @@
 # shipping-service Documentation
-Updated for KOR-2086
+Updated for KOR-2093
