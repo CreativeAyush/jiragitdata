@@ -1,2 +1,2 @@
 # cart-service Documentation
-Updated for KOR-2117
+Updated for KOR-2118
