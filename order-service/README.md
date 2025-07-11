@@ -1,2 +1,2 @@
 # order-service Documentation
-Updated for KOR-2136
+Updated for KOR-2137
