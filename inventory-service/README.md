@@ -1,2 +1,2 @@
 # inventory-service Documentation
-Updated for KOR-2168
+Updated for KOR-2169
