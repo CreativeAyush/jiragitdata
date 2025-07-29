@@ -1,2 +1,2 @@
 # recommendation-engine Documentation
-Updated for KOR-2176
+Updated for KOR-2177
