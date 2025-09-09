@@ -1,2 +1,2 @@
 # payment-service Documentation
-Updated for KOR-2233
+Updated for KOR-2255
