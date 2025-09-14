@@ -1,1 +1,1 @@
-def test_KOR-2266(): pass
+def test_KOR-2267(): pass
