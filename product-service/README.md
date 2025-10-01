@@ -1,2 +1,2 @@
 # product-service Documentation
-Updated for KOR-2295
+Updated for KOR-2296
