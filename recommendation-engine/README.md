@@ -1,2 +1,2 @@
 # recommendation-engine Documentation
-Updated for KOR-2349
+Updated for KOR-2350
