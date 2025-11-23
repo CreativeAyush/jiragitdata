@@ -1,2 +1,2 @@
 # shipping-service Documentation
-Updated for KOR-2405
+Updated for KOR-2406
