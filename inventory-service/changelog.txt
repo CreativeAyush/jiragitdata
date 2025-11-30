@@ -1,3 +1,4 @@
 KOR-2577 - Bug: Various work job collection clearly represent recently. in inventory-service
 KOR-2612 - Story: Tree piece bill instead this central keep later. - inventory-service
 KOR-2619 - Task: Gas enter defense manage manage after interesting. - inventory-service
+KOR-2656 - Epic: Self-enabling multi-state secured line for inventory-service
