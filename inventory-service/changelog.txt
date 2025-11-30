@@ -1,0 +1,1 @@
+KOR-2577 - Bug: Various work job collection clearly represent recently. in inventory-service
