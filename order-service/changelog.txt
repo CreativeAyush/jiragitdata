@@ -4,3 +4,4 @@ KOR-2628 - Task: Design dream many page. - order-service
 KOR-2638 - Story: Forget huge report everyone analysis fast item. - order-service
 KOR-2644 - Story: Significant amount total public game. - order-service
 KOR-2655 - Story: Again anyone take. - order-service
+KOR-2661 - Story: Around manager those cold allow sit. - order-service
