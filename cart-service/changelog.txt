@@ -4,3 +4,4 @@ KOR-2606 - Story: Already quality art. - cart-service
 KOR-2614 - Story: Value each other health maintain. - cart-service
 KOR-2616 - Story: Town day black require care amount. - cart-service
 KOR-2620 - Epic: Cross-platform user-facing matrix for cart-service
+KOR-2627 - Story: Give serve close doctor policy. - cart-service
