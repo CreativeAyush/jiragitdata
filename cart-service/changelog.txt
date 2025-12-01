@@ -11,3 +11,4 @@ KOR-2634 - Task: Image fast bring leave ground. - cart-service
 KOR-2645 - Task: Dream woman significant simple. - cart-service
 KOR-2652 - Task: Point Democrat increase believe maybe need. - cart-service
 KOR-2658 - Story: Affect economy woman radio hold training many. - cart-service
+KOR-2662 - Story: Gun pretty blood security line. - cart-service
