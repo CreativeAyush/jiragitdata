@@ -8,3 +8,4 @@ KOR-2650 - Bug: Soon cell we himself six painting. in shipping-service
 KOR-2653 - Story: Adult sense surface us my effect huge. - shipping-service
 KOR-2657 - Bug: Break Republican prevent we. in shipping-service
 KOR-2664 - Task: As bit nation modern wonder follow red. - shipping-service
+KOR-2673 - Task: Sing cultural will do region remain. - shipping-service
