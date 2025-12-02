@@ -2,3 +2,4 @@ KOR-2604 - Story: Travel election participant. - auth-service
 KOR-2617 - Bug: Test national down but Congress whether. in auth-service
 KOR-2623 - Story: Benefit already dinner capital spring. - auth-service
 KOR-2624 - Story: Task prevent ready or score main. - auth-service
+KOR-2625 - Task: Staff huge show mother environment its who. - auth-service
