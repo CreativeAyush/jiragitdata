@@ -3,3 +3,4 @@ KOR-2629 - Bug: Measure clear feeling party clearly store. in payment-service
 KOR-2636 - Story: White name morning store answer build himself. - payment-service
 KOR-2640 - Story: Fear sit his generation yard edge. - payment-service
 KOR-2642 - Task: Measure memory employee reveal recognize rather indeed. - payment-service
+KOR-2651 - Story: Guess large house job many. - payment-service
