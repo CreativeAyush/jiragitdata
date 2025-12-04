@@ -1,1 +1,2 @@
 KOR-2575 - Bug: Staff board including reality speak. in product-service
+KOR-2589 - Story: Way high debate center center. - product-service
