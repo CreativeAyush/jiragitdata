@@ -1,0 +1,1 @@
+KOR-2604 - Story: Travel election participant. - auth-service
