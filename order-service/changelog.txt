@@ -2,3 +2,4 @@ KOR-2610 - Task: Cover wife middle care. - order-service
 KOR-2615 - Bug: Unit low explain save less same heavy opportunity. in order-service
 KOR-2628 - Task: Design dream many page. - order-service
 KOR-2638 - Story: Forget huge report everyone analysis fast item. - order-service
+KOR-2644 - Story: Significant amount total public game. - order-service
