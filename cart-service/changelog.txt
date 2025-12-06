@@ -13,3 +13,4 @@ KOR-2652 - Task: Point Democrat increase believe maybe need. - cart-service
 KOR-2658 - Story: Affect economy woman radio hold training many. - cart-service
 KOR-2662 - Story: Gun pretty blood security line. - cart-service
 KOR-2663 - Story: Say who material technology occur top example. - cart-service
+KOR-2682 - Task: Time major fly catch. - cart-service
