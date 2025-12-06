@@ -1,2 +1,2 @@
 # inventory-service Documentation
-Updated for KOR-2436
+Updated for KOR-2437
