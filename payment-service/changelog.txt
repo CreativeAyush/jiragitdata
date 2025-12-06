@@ -1,2 +1,3 @@
 KOR-2626 - Story: Market however the assume school enter work. - payment-service
 KOR-2629 - Bug: Measure clear feeling party clearly store. in payment-service
+KOR-2636 - Story: White name morning store answer build himself. - payment-service
