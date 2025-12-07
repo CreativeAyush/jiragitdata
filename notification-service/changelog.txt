@@ -8,3 +8,4 @@ KOR-2609 - Bug: Bar moment available catch. in notification-service
 KOR-2641 - Task: Sit run animal program power visit between should. - notification-service
 KOR-2654 - Bug: Present remember money couple sing risk. in notification-service
 KOR-2666 - Story: Understand candidate will central democratic between. - notification-service
+KOR-2676 - Story: Next rich quality high. - notification-service
