@@ -6,3 +6,4 @@ KOR-2616 - Story: Town day black require care amount. - cart-service
 KOR-2620 - Epic: Cross-platform user-facing matrix for cart-service
 KOR-2627 - Story: Give serve close doctor policy. - cart-service
 KOR-2631 - Epic: Vision-oriented transitional superstructure for cart-service
+KOR-2632 - Task: American group last student decision senior. - cart-service
