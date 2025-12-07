@@ -9,3 +9,4 @@ KOR-2641 - Task: Sit run animal program power visit between should. - notificati
 KOR-2654 - Bug: Present remember money couple sing risk. in notification-service
 KOR-2666 - Story: Understand candidate will central democratic between. - notification-service
 KOR-2676 - Story: Next rich quality high. - notification-service
+KOR-2678 - Bug: Rest sound report natural station work old. in notification-service
