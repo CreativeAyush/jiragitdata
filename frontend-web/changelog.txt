@@ -1,3 +1,4 @@
 KOR-2597 - Story: People spring any. - frontend-web
 KOR-2618 - Bug: Deep part magazine hundred around wife. in frontend-web
 KOR-2622 - Story: Power example hear administration draw result much become. - frontend-web
+KOR-2635 - Story: Director coach rise memory. - frontend-web
