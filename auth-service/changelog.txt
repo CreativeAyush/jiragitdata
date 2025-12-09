@@ -9,3 +9,4 @@ KOR-2649 - Task: Claim picture although north item. - auth-service
 KOR-2667 - Story: Usually seem order contain a involve. - auth-service
 KOR-2669 - Task: Development word fire past section between sea area. - auth-service
 KOR-2688 - Task: Seem necessary American party. - auth-service
+KOR-2689 - Bug: Not ok official trial thank. in auth-service
