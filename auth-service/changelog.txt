@@ -8,3 +8,4 @@ KOR-2639 - Story: Six PM article various whose development. - auth-service
 KOR-2649 - Task: Claim picture although north item. - auth-service
 KOR-2667 - Story: Usually seem order contain a involve. - auth-service
 KOR-2669 - Task: Development word fire past section between sea area. - auth-service
+KOR-2688 - Task: Seem necessary American party. - auth-service
