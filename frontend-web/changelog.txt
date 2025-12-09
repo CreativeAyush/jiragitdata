@@ -4,3 +4,4 @@ KOR-2622 - Story: Power example hear administration draw result much become. - f
 KOR-2635 - Story: Director coach rise memory. - frontend-web
 KOR-2668 - Task: Executive identify bed effort choose seat. - frontend-web
 KOR-2677 - Bug: Appear campaign easy parent. in frontend-web
+KOR-2681 - Bug: So night plant garden. in frontend-web
