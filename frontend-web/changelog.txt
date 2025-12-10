@@ -1,0 +1,1 @@
+KOR-2597 - Story: People spring any. - frontend-web
