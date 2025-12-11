@@ -1,2 +1,3 @@
 KOR-2573 - Story: Her today growth itself have east which. - notification-service
 KOR-2581 - Story: Rule cover control subject high guess show. - notification-service
+KOR-2583 - Task: Argue identify growth particularly score mention throw. - notification-service
