@@ -1,1 +1,2 @@
 KOR-2577 - Bug: Various work job collection clearly represent recently. in inventory-service
+KOR-2612 - Story: Tree piece bill instead this central keep later. - inventory-service
