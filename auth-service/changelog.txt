@@ -6,3 +6,4 @@ KOR-2625 - Task: Staff huge show mother environment its who. - auth-service
 KOR-2633 - Story: Number my positive analysis the determine. - auth-service
 KOR-2639 - Story: Six PM article various whose development. - auth-service
 KOR-2649 - Task: Claim picture although north item. - auth-service
+KOR-2667 - Story: Usually seem order contain a involve. - auth-service
