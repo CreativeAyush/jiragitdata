@@ -6,3 +6,4 @@ KOR-2642 - Task: Measure memory employee reveal recognize rather indeed. - payme
 KOR-2651 - Story: Guess large house job many. - payment-service
 KOR-2671 - Story: Above during thought she evidence environment about. - payment-service
 KOR-2675 - Story: Model decade start decide trial find my. - payment-service
+KOR-2686 - Story: Budget phone major down experience let. - payment-service
