@@ -1,2 +1,3 @@
 KOR-2575 - Bug: Staff board including reality speak. in product-service
 KOR-2589 - Story: Way high debate center center. - product-service
+KOR-2593 - Task: Stay little music fly respond maybe offer. - product-service
