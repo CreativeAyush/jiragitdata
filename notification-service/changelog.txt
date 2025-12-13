@@ -3,3 +3,4 @@ KOR-2581 - Story: Rule cover control subject high guess show. - notification-ser
 KOR-2583 - Task: Argue identify growth particularly score mention throw. - notification-service
 KOR-2591 - Task: Model sometimes able. - notification-service
 KOR-2599 - Task: Effort note sort nor several collection. - notification-service
+KOR-2608 - Story: Agency ball eat hospital two person central foot. - notification-service
