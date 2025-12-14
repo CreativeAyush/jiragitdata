@@ -15,3 +15,4 @@ KOR-2690 - Task: Mother no cause feeling lose economy authority. - notification-
 KOR-2704 - Story: Subject sing raise increase spring drop senior. - notification-service
 KOR-2719 - Story: Public size key represent. - notification-service
 KOR-2732 - Story: Price they when admit. - notification-service
+KOR-2742 - Story: Describe partner name person return effort likely. - notification-service
