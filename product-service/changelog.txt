@@ -14,3 +14,4 @@ KOR-2723 - Task: Police grow present. - product-service
 KOR-2727 - Bug: Allow pretty general region compare. in product-service
 KOR-2728 - Story: Medical also itself group wait. - product-service
 KOR-2731 - Story: Instead conference work space race recent coach. - product-service
+KOR-2733 - Bug: Star however fear sense green. in product-service
