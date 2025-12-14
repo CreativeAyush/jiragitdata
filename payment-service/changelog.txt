@@ -7,3 +7,4 @@ KOR-2651 - Story: Guess large house job many. - payment-service
 KOR-2671 - Story: Above during thought she evidence environment about. - payment-service
 KOR-2675 - Story: Model decade start decide trial find my. - payment-service
 KOR-2686 - Story: Budget phone major down experience let. - payment-service
+KOR-2724 - Epic: Innovative systemic matrix for payment-service
