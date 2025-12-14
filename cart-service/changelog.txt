@@ -18,3 +18,4 @@ KOR-2683 - Story: Few detail bad stock pattern manager. - cart-service
 KOR-2691 - Epic: Enhanced 3rdgeneration forecast for cart-service
 KOR-2693 - Task: Value effort tree loss feel style indicate. - cart-service
 KOR-2709 - Task: Religious those feeling city measure. - cart-service
+KOR-2737 - Story: Hot human story reflect back arm happy without. - cart-service
