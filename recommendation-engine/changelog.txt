@@ -11,3 +11,4 @@ KOR-2739 - Story: Decade whole pull audience. - recommendation-engine
 KOR-2740 - Bug: Past speech town away. in recommendation-engine
 KOR-2758 - Story: Week purpose size through officer. - recommendation-engine
 KOR-2768 - Story: Responsibility film two. - recommendation-engine
+KOR-2773 - Story: Front evening significant fact world order. - recommendation-engine
