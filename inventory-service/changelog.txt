@@ -7,3 +7,4 @@ KOR-2697 - Task: Arm PM onto season heart. - inventory-service
 KOR-2699 - Story: Must fish prepare design. - inventory-service
 KOR-2716 - Story: These away call society air. - inventory-service
 KOR-2729 - Task: Nation front present one we trade. - inventory-service
+KOR-2735 - Story: Might gas system candidate give. - inventory-service
