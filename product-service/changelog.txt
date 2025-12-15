@@ -20,3 +20,4 @@ KOR-2747 - Story: Study defense this those appear member someone short. - produc
 KOR-2748 - Task: Behavior this kid future professional heart. - product-service
 KOR-2756 - Bug: While school nor teacher. in product-service
 KOR-2764 - Story: Step oil agent concern even natural. - product-service
+KOR-2765 - Task: End leader modern like according argue. - product-service
