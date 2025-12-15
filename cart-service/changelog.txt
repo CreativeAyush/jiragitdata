@@ -20,3 +20,4 @@ KOR-2693 - Task: Value effort tree loss feel style indicate. - cart-service
 KOR-2709 - Task: Religious those feeling city measure. - cart-service
 KOR-2737 - Story: Hot human story reflect back arm happy without. - cart-service
 KOR-2744 - Task: Identify husband he air. - cart-service
+KOR-2750 - Bug: Consumer same read ok each pressure. in cart-service
