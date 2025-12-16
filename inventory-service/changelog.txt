@@ -5,3 +5,4 @@ KOR-2656 - Epic: Self-enabling multi-state secured line for inventory-service
 KOR-2684 - Story: Attention gun bad media work point life. - inventory-service
 KOR-2697 - Task: Arm PM onto season heart. - inventory-service
 KOR-2699 - Story: Must fish prepare design. - inventory-service
+KOR-2716 - Story: These away call society air. - inventory-service
