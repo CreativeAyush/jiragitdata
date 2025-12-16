@@ -18,3 +18,4 @@ KOR-2732 - Story: Price they when admit. - notification-service
 KOR-2742 - Story: Describe partner name person return effort likely. - notification-service
 KOR-2772 - Bug: American successful positive long scientist serious safe which. in notification-service
 KOR-2774 - Story: Politics various a act artist. - notification-service
+KOR-2777 - Story: Pay model yes establish woman. - notification-service
