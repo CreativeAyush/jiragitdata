@@ -17,3 +17,4 @@ KOR-2736 - Story: Daughter development stay. - auth-service
 KOR-2767 - Story: American loss her fight thing. - auth-service
 KOR-2770 - Task: Power movement authority idea. - auth-service
 KOR-2775 - Story: Toward where recently write international. - auth-service
+KOR-2780 - Story: Choice appear fill real plant. - auth-service
