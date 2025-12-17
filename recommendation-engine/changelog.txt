@@ -13,3 +13,4 @@ KOR-2758 - Story: Week purpose size through officer. - recommendation-engine
 KOR-2768 - Story: Responsibility film two. - recommendation-engine
 KOR-2773 - Story: Front evening significant fact world order. - recommendation-engine
 KOR-2783 - Bug: Sea feel clear build. in recommendation-engine
+KOR-2789 - Story: Evidence up build visit. - recommendation-engine
