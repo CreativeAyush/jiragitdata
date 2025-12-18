@@ -14,3 +14,4 @@ KOR-2679 - Story: By hotel discuss step area its. - notification-service
 KOR-2690 - Task: Mother no cause feeling lose economy authority. - notification-service
 KOR-2704 - Story: Subject sing raise increase spring drop senior. - notification-service
 KOR-2719 - Story: Public size key represent. - notification-service
+KOR-2732 - Story: Price they when admit. - notification-service
