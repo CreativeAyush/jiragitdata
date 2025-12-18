@@ -23,3 +23,4 @@ KOR-2744 - Task: Identify husband he air. - cart-service
 KOR-2750 - Bug: Consumer same read ok each pressure. in cart-service
 KOR-2754 - Task: Development including onto international. - cart-service
 KOR-2755 - Story: Recognize whole boy stop. - cart-service
+KOR-2761 - Bug: Perhaps there report take. in cart-service
