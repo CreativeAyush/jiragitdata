@@ -13,3 +13,4 @@ KOR-2689 - Bug: Not ok official trial thank. in auth-service
 KOR-2706 - Story: Heart foot fast cover source wear. - auth-service
 KOR-2708 - Story: Edge situation two chair everything. - auth-service
 KOR-2715 - Task: Newspaper sit result ability. - auth-service
+KOR-2736 - Story: Daughter development stay. - auth-service
