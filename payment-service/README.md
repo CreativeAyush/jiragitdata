@@ -1,2 +1,2 @@
 # payment-service Documentation
-Updated for KOR-2440
+Updated for KOR-2441
