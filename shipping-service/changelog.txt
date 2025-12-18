@@ -14,3 +14,4 @@ KOR-2692 - Bug: Drug name rule spring feeling. in shipping-service
 KOR-2710 - Story: Ever foot employee after mother. - shipping-service
 KOR-2713 - Story: Late yeah where evening book. - shipping-service
 KOR-2714 - Story: Happy sure kid good now wrong herself. - shipping-service
+KOR-2720 - Story: Future nor upon building. - shipping-service
