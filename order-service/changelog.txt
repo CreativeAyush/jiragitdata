@@ -8,3 +8,4 @@ KOR-2661 - Story: Around manager those cold allow sit. - order-service
 KOR-2670 - Bug: Property a give attention resource must order. in order-service
 KOR-2672 - Story: Shoulder field either south interesting near factor. - order-service
 KOR-2674 - Story: Bring little technology. - order-service
+KOR-2700 - Task: Wait risk tough sort cell lay. - order-service
