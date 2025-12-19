@@ -15,3 +15,4 @@ KOR-2708 - Story: Edge situation two chair everything. - auth-service
 KOR-2715 - Task: Newspaper sit result ability. - auth-service
 KOR-2736 - Story: Daughter development stay. - auth-service
 KOR-2767 - Story: American loss her fight thing. - auth-service
+KOR-2770 - Task: Power movement authority idea. - auth-service
