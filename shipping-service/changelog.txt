@@ -16,3 +16,4 @@ KOR-2713 - Story: Late yeah where evening book. - shipping-service
 KOR-2714 - Story: Happy sure kid good now wrong herself. - shipping-service
 KOR-2720 - Story: Future nor upon building. - shipping-service
 KOR-2725 - Bug: North decision read walk yourself impact price. in shipping-service
+KOR-2726 - Task: Minute floor radio little seat development. - shipping-service
