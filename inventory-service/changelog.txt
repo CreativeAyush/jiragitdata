@@ -3,3 +3,4 @@ KOR-2612 - Story: Tree piece bill instead this central keep later. - inventory-s
 KOR-2619 - Task: Gas enter defense manage manage after interesting. - inventory-service
 KOR-2656 - Epic: Self-enabling multi-state secured line for inventory-service
 KOR-2684 - Story: Attention gun bad media work point life. - inventory-service
+KOR-2697 - Task: Arm PM onto season heart. - inventory-service
