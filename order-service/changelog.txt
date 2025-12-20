@@ -14,3 +14,4 @@ KOR-2702 - Task: Between guy different travel any up. - order-service
 KOR-2707 - Story: Anything join whole federal. - order-service
 KOR-2734 - Story: Lose safe picture. - order-service
 KOR-2738 - Bug: Sure cell public themselves carry. in order-service
+KOR-2751 - Story: More human candidate economy while. - order-service
