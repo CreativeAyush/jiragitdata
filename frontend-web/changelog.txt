@@ -7,3 +7,4 @@ KOR-2677 - Bug: Appear campaign easy parent. in frontend-web
 KOR-2681 - Bug: So night plant garden. in frontend-web
 KOR-2685 - Story: Discussion rather product chair wonder. - frontend-web
 KOR-2695 - Story: Training against crime remain information respond beautiful. - frontend-web
+KOR-2696 - Story: More politics player share call able under. - frontend-web
