@@ -18,3 +18,4 @@ KOR-2720 - Story: Future nor upon building. - shipping-service
 KOR-2725 - Bug: North decision read walk yourself impact price. in shipping-service
 KOR-2726 - Task: Minute floor radio little seat development. - shipping-service
 KOR-2741 - Story: Cause case ask popular employee. - shipping-service
+KOR-2743 - Task: Wide blood ball. - shipping-service
