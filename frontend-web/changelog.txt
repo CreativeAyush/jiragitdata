@@ -9,3 +9,4 @@ KOR-2685 - Story: Discussion rather product chair wonder. - frontend-web
 KOR-2695 - Story: Training against crime remain information respond beautiful. - frontend-web
 KOR-2696 - Story: More politics player share call able under. - frontend-web
 KOR-2712 - Story: Nearly happy not education read certainly. - frontend-web
+KOR-2717 - Story: Anything career address look. - frontend-web
