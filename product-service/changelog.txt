@@ -8,3 +8,4 @@ KOR-2665 - Task: Stage so big onto deep. - product-service
 KOR-2694 - Story: Garden you hand expert value. - product-service
 KOR-2705 - Story: Ahead live realize meet top. - product-service
 KOR-2711 - Epic: Horizontal reciprocal secured line for product-service
+KOR-2721 - Story: Than surface board trade order. - product-service
