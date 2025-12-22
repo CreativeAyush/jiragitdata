@@ -22,3 +22,4 @@ KOR-2756 - Bug: While school nor teacher. in product-service
 KOR-2764 - Story: Step oil agent concern even natural. - product-service
 KOR-2765 - Task: End leader modern like according argue. - product-service
 KOR-2766 - Epic: Re-contextualized stable open system for product-service
+KOR-2778 - Bug: Environment office research dog good. in product-service
