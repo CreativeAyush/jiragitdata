@@ -25,3 +25,4 @@ KOR-2752 - Story: Opportunity opportunity meet girl. - shipping-service
 KOR-2759 - Story: Far action trade child law product. - shipping-service
 KOR-2760 - Task: Store outside real happy. - shipping-service
 KOR-2763 - Story: Machine mean push state enter reality very responsibility. - shipping-service
+KOR-2786 - Epic: Ergonomic impactful hierarchy for shipping-service
