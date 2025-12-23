@@ -1,2 +1,2 @@
 # notification-service Documentation
-Updated for KOR-2460
+Updated for KOR-2461
