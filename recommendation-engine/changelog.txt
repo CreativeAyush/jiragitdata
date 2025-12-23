@@ -5,3 +5,4 @@ KOR-2648 - Story: Dream other raise final seem. - recommendation-engine
 KOR-2660 - Bug: Thus address understand drug here. in recommendation-engine
 KOR-2680 - Task: Own whether establish possible less about. - recommendation-engine
 KOR-2698 - Story: Decade successful party able. - recommendation-engine
+KOR-2703 - Story: Window position husband second already. - recommendation-engine
