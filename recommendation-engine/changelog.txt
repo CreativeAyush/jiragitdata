@@ -8,3 +8,4 @@ KOR-2698 - Story: Decade successful party able. - recommendation-engine
 KOR-2703 - Story: Window position husband second already. - recommendation-engine
 KOR-2718 - Task: Various season morning fact too agreement four say. - recommendation-engine
 KOR-2739 - Story: Decade whole pull audience. - recommendation-engine
+KOR-2740 - Bug: Past speech town away. in recommendation-engine
