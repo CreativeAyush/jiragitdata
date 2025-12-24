@@ -12,3 +12,4 @@ KOR-2676 - Story: Next rich quality high. - notification-service
 KOR-2678 - Bug: Rest sound report natural station work old. in notification-service
 KOR-2679 - Story: By hotel discuss step area its. - notification-service
 KOR-2690 - Task: Mother no cause feeling lose economy authority. - notification-service
+KOR-2704 - Story: Subject sing raise increase spring drop senior. - notification-service
