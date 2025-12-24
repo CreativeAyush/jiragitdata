@@ -9,3 +9,4 @@
 - Fixed KOR-2565
 - Fixed KOR-2567
 - Fixed KOR-2570
+- Fixed KOR-2572
