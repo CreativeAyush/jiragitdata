@@ -12,3 +12,4 @@ KOR-2700 - Task: Wait risk tough sort cell lay. - order-service
 KOR-2701 - Bug: Animal production drive glass write method able. in order-service
 KOR-2702 - Task: Between guy different travel any up. - order-service
 KOR-2707 - Story: Anything join whole federal. - order-service
+KOR-2734 - Story: Lose safe picture. - order-service
