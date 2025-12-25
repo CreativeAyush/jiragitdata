@@ -16,3 +16,4 @@ KOR-2728 - Story: Medical also itself group wait. - product-service
 KOR-2731 - Story: Instead conference work space race recent coach. - product-service
 KOR-2733 - Bug: Star however fear sense green. in product-service
 KOR-2746 - Task: Goal sound do share least. - product-service
+KOR-2747 - Story: Study defense this those appear member someone short. - product-service
