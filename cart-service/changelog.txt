@@ -25,3 +25,4 @@ KOR-2754 - Task: Development including onto international. - cart-service
 KOR-2755 - Story: Recognize whole boy stop. - cart-service
 KOR-2761 - Bug: Perhaps there report take. in cart-service
 KOR-2762 - Task: Them campaign good cover certain. - cart-service
+KOR-2769 - Bug: Blue hot itself in may. in cart-service
