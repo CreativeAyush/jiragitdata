@@ -11,3 +11,4 @@ KOR-2669 - Task: Development word fire past section between sea area. - auth-ser
 KOR-2688 - Task: Seem necessary American party. - auth-service
 KOR-2689 - Bug: Not ok official trial thank. in auth-service
 KOR-2706 - Story: Heart foot fast cover source wear. - auth-service
+KOR-2708 - Story: Edge situation two chair everything. - auth-service
