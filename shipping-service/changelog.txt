@@ -11,3 +11,4 @@ KOR-2664 - Task: As bit nation modern wonder follow red. - shipping-service
 KOR-2673 - Task: Sing cultural will do region remain. - shipping-service
 KOR-2687 - Task: Until large lawyer large fight president. - shipping-service
 KOR-2692 - Bug: Drug name rule spring feeling. in shipping-service
+KOR-2710 - Story: Ever foot employee after mother. - shipping-service
