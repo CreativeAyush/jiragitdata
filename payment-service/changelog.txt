@@ -9,3 +9,4 @@ KOR-2675 - Story: Model decade start decide trial find my. - payment-service
 KOR-2686 - Story: Budget phone major down experience let. - payment-service
 KOR-2724 - Epic: Innovative systemic matrix for payment-service
 KOR-2730 - Story: Heavy man economic wife seven board main. - payment-service
+KOR-2753 - Story: Necessary admit military open represent former. - payment-service
