@@ -23,3 +23,4 @@ KOR-2745 - Story: News yeah economic individual cultural stop. - shipping-servic
 KOR-2749 - Story: Somebody front exactly purpose century entire. - shipping-service
 KOR-2752 - Story: Opportunity opportunity meet girl. - shipping-service
 KOR-2759 - Story: Far action trade child law product. - shipping-service
+KOR-2760 - Task: Store outside real happy. - shipping-service
