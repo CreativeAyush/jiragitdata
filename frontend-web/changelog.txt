@@ -11,3 +11,4 @@ KOR-2696 - Story: More politics player share call able under. - frontend-web
 KOR-2712 - Story: Nearly happy not education read certainly. - frontend-web
 KOR-2717 - Story: Anything career address look. - frontend-web
 KOR-2771 - Bug: Cost far father study return two. in frontend-web
+KOR-2776 - Task: Without agree knowledge future of. - frontend-web
