@@ -26,3 +26,4 @@ KOR-2755 - Story: Recognize whole boy stop. - cart-service
 KOR-2761 - Bug: Perhaps there report take. in cart-service
 KOR-2762 - Task: Them campaign good cover certain. - cart-service
 KOR-2769 - Bug: Blue hot itself in may. in cart-service
+KOR-2784 - Story: Adult newspaper upon control phone others huge. - cart-service
