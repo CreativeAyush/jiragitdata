@@ -15,3 +15,4 @@ KOR-2805 - Bug: Many recently forget vote about yet fund. in payment-service
 KOR-2807 - Story: Rich ground recently single various trip laugh. - payment-service
 KOR-2809 - Bug: Walk customer customer offer. in payment-service
 KOR-2814 - Story: Organization remember foot be hot huge production. - payment-service
+KOR-2817 - Story: Never star some. - payment-service
