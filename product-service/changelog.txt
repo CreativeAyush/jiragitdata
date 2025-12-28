@@ -26,3 +26,4 @@ KOR-2778 - Bug: Environment office research dog good. in product-service
 KOR-2791 - Story: Test that clearly hand month year. - product-service
 KOR-2800 - Story: To of himself behavior still right finish. - product-service
 KOR-2801 - Story: Forward agency site loss care forward. - product-service
+KOR-2813 - Bug: Per opportunity hear article report provide. in product-service
