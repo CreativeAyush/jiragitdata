@@ -13,3 +13,4 @@ KOR-2717 - Story: Anything career address look. - frontend-web
 KOR-2771 - Bug: Cost far father study return two. in frontend-web
 KOR-2776 - Task: Without agree knowledge future of. - frontend-web
 KOR-2782 - Epic: Virtual logistical matrix for frontend-web
+KOR-2798 - Story: Party home three shake beautiful central home almost. - frontend-web
