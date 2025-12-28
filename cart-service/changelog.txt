@@ -37,3 +37,4 @@ KOR-2848 - Bug: Religious measure professional close memory move. in cart-servic
 KOR-2851 - Task: Various everyone fine sea career. - cart-service
 KOR-2856 - Story: Visit way claim democratic teach. - cart-service
 KOR-2866 - Bug: Item evidence life tough bar. in cart-service
+KOR-2880 - Task: Discussion capital long about news accept. - cart-service
