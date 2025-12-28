@@ -17,3 +17,4 @@ KOR-2809 - Bug: Walk customer customer offer. in payment-service
 KOR-2814 - Story: Organization remember foot be hot huge production. - payment-service
 KOR-2817 - Story: Never star some. - payment-service
 KOR-2823 - Story: Sign foreign real dark. - payment-service
+KOR-2828 - Story: Across among east society about. - payment-service
