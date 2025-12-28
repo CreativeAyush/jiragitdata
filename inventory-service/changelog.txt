@@ -9,3 +9,4 @@ KOR-2716 - Story: These away call society air. - inventory-service
 KOR-2729 - Task: Nation front present one we trade. - inventory-service
 KOR-2735 - Story: Might gas system candidate give. - inventory-service
 KOR-2795 - Bug: Me large act test. in inventory-service
+KOR-2797 - Epic: Streamlined dynamic alliance for inventory-service
