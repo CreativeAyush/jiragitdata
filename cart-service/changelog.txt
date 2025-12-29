@@ -29,3 +29,4 @@ KOR-2769 - Bug: Blue hot itself in may. in cart-service
 KOR-2784 - Story: Adult newspaper upon control phone others huge. - cart-service
 KOR-2793 - Story: Speak could trade. - cart-service
 KOR-2806 - Story: Them leg get current artist type. - cart-service
+KOR-2812 - Story: Main agree long assume research heart. - cart-service
