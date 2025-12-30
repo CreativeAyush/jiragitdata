@@ -11,3 +11,4 @@ KOR-2735 - Story: Might gas system candidate give. - inventory-service
 KOR-2795 - Bug: Me large act test. in inventory-service
 KOR-2797 - Epic: Streamlined dynamic alliance for inventory-service
 KOR-2799 - Task: Image represent measure success none air. - inventory-service
+KOR-2802 - Task: Education particularly peace. - inventory-service
