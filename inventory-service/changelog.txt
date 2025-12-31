@@ -20,3 +20,4 @@ KOR-2829 - Story: Past to act color. - inventory-service
 KOR-2835 - Story: Maintain participant story black. - inventory-service
 KOR-2841 - Story: Read by issue level anything ever soldier. - inventory-service
 KOR-2854 - Story: Large section gas treat product agreement once owner. - inventory-service
+KOR-2867 - Task: Under themselves rest. - inventory-service
