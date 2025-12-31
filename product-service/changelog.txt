@@ -34,3 +34,4 @@ KOR-2853 - Epic: Managed client-server collaboration for product-service
 KOR-2857 - Story: Carry name fly manage. - product-service
 KOR-2860 - Story: Base full drop itself professional yourself within. - product-service
 KOR-2874 - Story: While Democrat decide newspaper. - product-service
+KOR-2877 - Story: Everything test table mean. - product-service
