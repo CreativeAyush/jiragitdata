@@ -24,3 +24,4 @@ KOR-2803 - Task: Art top condition cut. - notification-service
 KOR-2831 - Task: Pm argue possible special. - notification-service
 KOR-2832 - Bug: Crime low brother agency back game score. in notification-service
 KOR-2849 - Story: Matter building ten station war. - notification-service
+KOR-2850 - Task: Life answer resource share yeah politics hear. - notification-service
