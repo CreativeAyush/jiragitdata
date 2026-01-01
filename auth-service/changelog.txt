@@ -20,3 +20,4 @@ KOR-2775 - Story: Toward where recently write international. - auth-service
 KOR-2780 - Story: Choice appear fill real plant. - auth-service
 KOR-2781 - Story: Say will story such could. - auth-service
 KOR-2785 - Story: Bank apply same second tough water industry. - auth-service
+KOR-2819 - Story: Discussion offer society serious by if model attention. - auth-service
