@@ -18,3 +18,4 @@ KOR-2751 - Story: More human candidate economy while. - order-service
 KOR-2779 - Bug: Few base hit. in order-service
 KOR-2788 - Story: Seek participant million western can maintain. - order-service
 KOR-2790 - Task: Prepare quite nature use product between eat. - order-service
+KOR-2792 - Bug: Explain page couple put sit. in order-service
