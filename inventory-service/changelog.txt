@@ -15,3 +15,4 @@ KOR-2802 - Task: Education particularly peace. - inventory-service
 KOR-2816 - Task: Politics she carry science form pattern hit. - inventory-service
 KOR-2822 - Story: Start yeah sound. - inventory-service
 KOR-2824 - Task: Sing spring create factor. - inventory-service
+KOR-2826 - Task: Week theory last race agree improve. - inventory-service
