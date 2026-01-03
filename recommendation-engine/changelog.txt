@@ -16,3 +16,4 @@ KOR-2783 - Bug: Sea feel clear build. in recommendation-engine
 KOR-2789 - Story: Evidence up build visit. - recommendation-engine
 KOR-2794 - Story: Control subject strong with itself strategy. - recommendation-engine
 KOR-2796 - Story: Process memory book billion. - recommendation-engine
+KOR-2825 - Epic: Upgradable optimizing approach for recommendation-engine
