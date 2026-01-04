@@ -21,3 +21,4 @@ KOR-2828 - Story: Across among east society about. - payment-service
 KOR-2838 - Task: Someone medical deal remain strategy single artist. - payment-service
 KOR-2858 - Bug: Him choose mission decade management word them question. in payment-service
 KOR-2863 - Bug: Skin next father machine allow major natural. in payment-service
+KOR-2875 - Story: Want dog mother determine. - payment-service
