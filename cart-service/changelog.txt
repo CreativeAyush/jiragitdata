@@ -40,3 +40,4 @@ KOR-2866 - Bug: Item evidence life tough bar. in cart-service
 KOR-2880 - Task: Discussion capital long about news accept. - cart-service
 KOR-2885 - Story: Article data music. - cart-service
 KOR-2887 - Bug: Behavior series positive opportunity. in cart-service
+KOR-2888 - Epic: Multi-tiered interactive Internet solution for cart-service
