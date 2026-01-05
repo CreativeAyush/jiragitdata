@@ -22,3 +22,4 @@ KOR-2777 - Story: Pay model yes establish woman. - notification-service
 KOR-2787 - Task: Remain traditional operation find red check them. - notification-service
 KOR-2803 - Task: Art top condition cut. - notification-service
 KOR-2831 - Task: Pm argue possible special. - notification-service
+KOR-2832 - Bug: Crime low brother agency back game score. in notification-service
