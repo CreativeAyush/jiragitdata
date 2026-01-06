@@ -32,3 +32,4 @@ KOR-2839 - Epic: Virtual 6thgeneration extranet for product-service
 KOR-2842 - Story: Beyond base fine capital own former affect. - product-service
 KOR-2853 - Epic: Managed client-server collaboration for product-service
 KOR-2857 - Story: Carry name fly manage. - product-service
+KOR-2860 - Story: Base full drop itself professional yourself within. - product-service
