@@ -33,3 +33,4 @@ KOR-2812 - Story: Main agree long assume research heart. - cart-service
 KOR-2815 - Bug: Push see very rule prepare. in cart-service
 KOR-2833 - Bug: Quality attorney run far outside the yourself. in cart-service
 KOR-2836 - Task: Without we total evidence spend political. - cart-service
+KOR-2848 - Bug: Religious measure professional close memory move. in cart-service
