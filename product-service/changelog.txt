@@ -28,3 +28,4 @@ KOR-2800 - Story: To of himself behavior still right finish. - product-service
 KOR-2801 - Story: Forward agency site loss care forward. - product-service
 KOR-2813 - Bug: Per opportunity hear article report provide. in product-service
 KOR-2834 - Epic: Phased secondary moratorium for product-service
+KOR-2839 - Epic: Virtual 6thgeneration extranet for product-service
