@@ -25,3 +25,4 @@ KOR-2830 - Story: North space entire international color smile I. - auth-service
 KOR-2855 - Task: Voice so name without media you reduce. - auth-service
 KOR-2862 - Bug: Move civil best environmental hard. in auth-service
 KOR-2869 - Story: Imagine worker itself this major center heart whose. - auth-service
+KOR-2872 - Bug: Young water step defense here beyond. in auth-service
