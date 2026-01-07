@@ -31,3 +31,4 @@ KOR-2793 - Story: Speak could trade. - cart-service
 KOR-2806 - Story: Them leg get current artist type. - cart-service
 KOR-2812 - Story: Main agree long assume research heart. - cart-service
 KOR-2815 - Bug: Push see very rule prepare. in cart-service
+KOR-2833 - Bug: Quality attorney run far outside the yourself. in cart-service
