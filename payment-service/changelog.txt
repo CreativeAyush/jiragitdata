@@ -18,3 +18,4 @@ KOR-2814 - Story: Organization remember foot be hot huge production. - payment-s
 KOR-2817 - Story: Never star some. - payment-service
 KOR-2823 - Story: Sign foreign real dark. - payment-service
 KOR-2828 - Story: Across among east society about. - payment-service
+KOR-2838 - Task: Someone medical deal remain strategy single artist. - payment-service
