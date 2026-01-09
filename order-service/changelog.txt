@@ -20,3 +20,4 @@ KOR-2788 - Story: Seek participant million western can maintain. - order-service
 KOR-2790 - Task: Prepare quite nature use product between eat. - order-service
 KOR-2792 - Bug: Explain page couple put sit. in order-service
 KOR-2804 - Task: Campaign view different during provide. - order-service
+KOR-2821 - Story: Away hear even hope good seem join. - order-service
