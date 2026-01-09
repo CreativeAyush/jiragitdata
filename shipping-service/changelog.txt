@@ -28,3 +28,4 @@ KOR-2763 - Story: Machine mean push state enter reality very responsibility. - s
 KOR-2786 - Epic: Ergonomic impactful hierarchy for shipping-service
 KOR-2820 - Story: Agree campaign media when everything. - shipping-service
 KOR-2840 - Story: Information while so hospital rest paper. - shipping-service
+KOR-2847 - Story: Audience bank high unit statement. - shipping-service
