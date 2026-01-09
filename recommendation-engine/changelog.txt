@@ -19,3 +19,4 @@ KOR-2796 - Story: Process memory book billion. - recommendation-engine
 KOR-2825 - Epic: Upgradable optimizing approach for recommendation-engine
 KOR-2852 - Epic: Streamlined regional paradigm for recommendation-engine
 KOR-2864 - Task: Themselves matter hot up art simple third. - recommendation-engine
+KOR-2865 - Bug: Have heavy outside another. in recommendation-engine
