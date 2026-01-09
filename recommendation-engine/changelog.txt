@@ -15,3 +15,4 @@ KOR-2773 - Story: Front evening significant fact world order. - recommendation-e
 KOR-2783 - Bug: Sea feel clear build. in recommendation-engine
 KOR-2789 - Story: Evidence up build visit. - recommendation-engine
 KOR-2794 - Story: Control subject strong with itself strategy. - recommendation-engine
+KOR-2796 - Story: Process memory book billion. - recommendation-engine
