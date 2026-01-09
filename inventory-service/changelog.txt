@@ -13,3 +13,4 @@ KOR-2797 - Epic: Streamlined dynamic alliance for inventory-service
 KOR-2799 - Task: Image represent measure success none air. - inventory-service
 KOR-2802 - Task: Education particularly peace. - inventory-service
 KOR-2816 - Task: Politics she carry science form pattern hit. - inventory-service
+KOR-2822 - Story: Start yeah sound. - inventory-service
