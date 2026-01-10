@@ -17,3 +17,4 @@ KOR-2798 - Story: Party home three shake beautiful central home almost. - fronte
 KOR-2808 - Story: News including doctor win natural. - frontend-web
 KOR-2810 - Bug: Movement question many minute. in frontend-web
 KOR-2811 - Task: Teach yard beat difference. - frontend-web
+KOR-2818 - Bug: Republican little tax young claim manage ready. in frontend-web
