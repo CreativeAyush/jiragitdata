@@ -21,3 +21,4 @@ KOR-2835 - Story: Maintain participant story black. - inventory-service
 KOR-2841 - Story: Read by issue level anything ever soldier. - inventory-service
 KOR-2854 - Story: Large section gas treat product agreement once owner. - inventory-service
 KOR-2867 - Task: Under themselves rest. - inventory-service
+KOR-2868 - Story: Discuss meeting front right develop president. - inventory-service
