@@ -22,3 +22,4 @@ KOR-2837 - Story: Number religious realize vote. - frontend-web
 KOR-2843 - Story: Season here different. - frontend-web
 KOR-2844 - Epic: Multi-layered transitional pricing structure for frontend-web
 KOR-2845 - Epic: Universal transitional budgetary management for frontend-web
+KOR-2859 - Bug: Participant south window generation since policy. in frontend-web
