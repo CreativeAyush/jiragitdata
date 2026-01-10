@@ -23,3 +23,4 @@ KOR-2804 - Task: Campaign view different during provide. - order-service
 KOR-2821 - Story: Away hear even hope good seem join. - order-service
 KOR-2827 - Task: Election glass thing new huge. - order-service
 KOR-2846 - Bug: Country prove large learn rich probably beyond commercial. in order-service
+KOR-2870 - Task: Mean claim billion power. - order-service
