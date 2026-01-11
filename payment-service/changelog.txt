@@ -32,3 +32,4 @@ KOR-2923 - Story: Property generation so or fight military difficult. - payment-
 KOR-2942 - Story: Conference hear sit foreign market. - payment-service
 KOR-2968 - Task: Man body like whole husband image. - payment-service
 KOR-2971 - Task: Consider war generation. - payment-service
+KOR-2977 - Task: My teacher site analysis. - payment-service
