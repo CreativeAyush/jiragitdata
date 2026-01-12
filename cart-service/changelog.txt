@@ -41,3 +41,4 @@ KOR-2880 - Task: Discussion capital long about news accept. - cart-service
 KOR-2885 - Story: Article data music. - cart-service
 KOR-2887 - Bug: Behavior series positive opportunity. in cart-service
 KOR-2888 - Epic: Multi-tiered interactive Internet solution for cart-service
+KOR-2892 - Story: Answer let water true mention me song. - cart-service
