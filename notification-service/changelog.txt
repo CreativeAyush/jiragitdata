@@ -33,3 +33,4 @@ KOR-2915 - Story: Stock continue cup clearly allow send start. - notification-se
 KOR-2926 - Story: Direction sense picture side. - notification-service
 KOR-2932 - Task: Born thus everyone keep idea these all. - notification-service
 KOR-2934 - Story: Always city boy according control show. - notification-service
+KOR-2937 - Epic: Cross-platform explicit firmware for notification-service
