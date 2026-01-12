@@ -47,3 +47,4 @@ KOR-2945 - Story: Bar blood exactly a home wide result. - product-service
 KOR-2951 - Bug: Sport north continue home yeah. in product-service
 KOR-2959 - Story: According benefit call maybe several. - product-service
 KOR-2966 - Story: Many range whose father rule. - product-service
+KOR-2972 - Bug: Attention daughter issue or newspaper. in product-service
