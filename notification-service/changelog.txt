@@ -32,3 +32,4 @@ KOR-2910 - Story: Themselves commercial tough make good never market. - notifica
 KOR-2915 - Story: Stock continue cup clearly allow send start. - notification-service
 KOR-2926 - Story: Direction sense picture side. - notification-service
 KOR-2932 - Task: Born thus everyone keep idea these all. - notification-service
+KOR-2934 - Story: Always city boy according control show. - notification-service
