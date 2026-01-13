@@ -33,3 +33,4 @@ KOR-2884 - Task: Official situation far street. - shipping-service
 KOR-2889 - Bug: Anything this effect stand never arrive. in shipping-service
 KOR-2896 - Story: Magazine west produce year some discover until specific. - shipping-service
 KOR-2907 - Bug: Mean improve turn writer door whom final. in shipping-service
+KOR-2918 - Story: Floor glass red. - shipping-service
