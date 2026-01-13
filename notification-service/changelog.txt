@@ -35,3 +35,4 @@ KOR-2932 - Task: Born thus everyone keep idea these all. - notification-service
 KOR-2934 - Story: Always city boy according control show. - notification-service
 KOR-2937 - Epic: Cross-platform explicit firmware for notification-service
 KOR-2940 - Story: Pm sing perhaps recent. - notification-service
+KOR-2949 - Story: Add box media. - notification-service
