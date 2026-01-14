@@ -1,2 +1,2 @@
 # auth-service Documentation
-Updated for KOR-2504
+Updated for KOR-2505
