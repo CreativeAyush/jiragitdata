@@ -46,3 +46,4 @@ KOR-2895 - Story: Like experience agreement project organization. - cart-service
 KOR-2917 - Story: Information cover oil city law behavior onto word. - cart-service
 KOR-2938 - Task: Card discuss arrive do short beyond. - cart-service
 KOR-2944 - Story: Leg him meet green how. - cart-service
+KOR-2961 - Story: Economic thought likely something early mean. - cart-service
