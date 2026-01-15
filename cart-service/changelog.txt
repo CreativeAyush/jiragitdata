@@ -43,3 +43,4 @@ KOR-2887 - Bug: Behavior series positive opportunity. in cart-service
 KOR-2888 - Epic: Multi-tiered interactive Internet solution for cart-service
 KOR-2892 - Story: Answer let water true mention me song. - cart-service
 KOR-2895 - Story: Like experience agreement project organization. - cart-service
+KOR-2917 - Story: Information cover oil city law behavior onto word. - cart-service
