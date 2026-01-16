@@ -27,3 +27,4 @@ KOR-2861 - Story: Writer education energy receive. - frontend-web
 KOR-2879 - Task: Forward produce meet. - frontend-web
 KOR-2894 - Story: Television difficult white. - frontend-web
 KOR-2906 - Task: Summer off hot view number. - frontend-web
+KOR-2913 - Story: Surface first difficult especially. - frontend-web
