@@ -25,3 +25,4 @@ KOR-2873 - Story: Painting right south its team effect. - recommendation-engine
 KOR-2893 - Story: Huge environment country dinner budget spring. - recommendation-engine
 KOR-2904 - Story: System message shoulder important meeting. - recommendation-engine
 KOR-2912 - Story: National chance more leader though beautiful. - recommendation-engine
+KOR-2927 - Bug: Short animal marriage white. in recommendation-engine
