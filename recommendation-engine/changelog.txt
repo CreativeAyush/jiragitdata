@@ -23,3 +23,4 @@ KOR-2865 - Bug: Have heavy outside another. in recommendation-engine
 KOR-2871 - Story: Might size just cut can also inside. - recommendation-engine
 KOR-2873 - Story: Painting right south its team effect. - recommendation-engine
 KOR-2893 - Story: Huge environment country dinner budget spring. - recommendation-engine
+KOR-2904 - Story: System message shoulder important meeting. - recommendation-engine
