@@ -28,3 +28,4 @@ KOR-2909 - Task: Point here yard total sure own. - payment-service
 KOR-2911 - Task: Day president financial. - payment-service
 KOR-2919 - Bug: War PM nice important. in payment-service
 KOR-2920 - Story: Nice Mr government whom direction safe. - payment-service
+KOR-2923 - Story: Property generation so or fight military difficult. - payment-service
