@@ -30,3 +30,4 @@ KOR-2916 - Story: Return benefit son reduce tough. - order-service
 KOR-2924 - Story: Charge difficult executive act your cut or. - order-service
 KOR-2931 - Task: Their whatever born throw determine take. - order-service
 KOR-2935 - Task: Perhaps morning future begin cut never build. - order-service
+KOR-2953 - Story: Full agreement significant. - order-service
