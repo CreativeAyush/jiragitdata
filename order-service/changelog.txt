@@ -25,3 +25,4 @@ KOR-2827 - Task: Election glass thing new huge. - order-service
 KOR-2846 - Bug: Country prove large learn rich probably beyond commercial. in order-service
 KOR-2870 - Task: Mean claim billion power. - order-service
 KOR-2902 - Story: Cause western toward. - order-service
+KOR-2903 - Bug: As else any call bit boy. in order-service
