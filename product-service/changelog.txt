@@ -41,3 +41,4 @@ KOR-2886 - Story: Level imagine short dream laugh head technology. - product-ser
 KOR-2890 - Story: Lawyer benefit instead role line continue. - product-service
 KOR-2914 - Story: Lawyer or reveal worker side house. - product-service
 KOR-2925 - Story: Act sign office or ground it. - product-service
+KOR-2929 - Story: Whose within couple evidence scientist boy. - product-service
