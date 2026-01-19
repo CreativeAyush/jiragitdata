@@ -34,3 +34,4 @@ KOR-2953 - Story: Full agreement significant. - order-service
 KOR-2957 - Story: Study tell her skin. - order-service
 KOR-2958 - Story: Down yard artist develop week contain. - order-service
 KOR-2962 - Story: Voice field morning list mention. - order-service
+KOR-2988 - Bug: Picture recognize plant little stay. in order-service
