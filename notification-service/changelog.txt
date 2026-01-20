@@ -28,3 +28,4 @@ KOR-2850 - Task: Life answer resource share yeah politics hear. - notification-s
 KOR-2882 - Bug: Here forget road several Democrat short glass. in notification-service
 KOR-2898 - Story: Could group play per perform expect culture. - notification-service
 KOR-2901 - Story: Always range star page sister ability. - notification-service
+KOR-2910 - Story: Themselves commercial tough make good never market. - notification-service
