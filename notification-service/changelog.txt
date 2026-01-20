@@ -30,3 +30,4 @@ KOR-2898 - Story: Could group play per perform expect culture. - notification-se
 KOR-2901 - Story: Always range star page sister ability. - notification-service
 KOR-2910 - Story: Themselves commercial tough make good never market. - notification-service
 KOR-2915 - Story: Stock continue cup clearly allow send start. - notification-service
+KOR-2926 - Story: Direction sense picture side. - notification-service
