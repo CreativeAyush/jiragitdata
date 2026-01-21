@@ -43,3 +43,4 @@ KOR-2914 - Story: Lawyer or reveal worker side house. - product-service
 KOR-2925 - Story: Act sign office or ground it. - product-service
 KOR-2929 - Story: Whose within couple evidence scientist boy. - product-service
 KOR-2941 - Story: Receive your consumer product. - product-service
+KOR-2945 - Story: Bar blood exactly a home wide result. - product-service
