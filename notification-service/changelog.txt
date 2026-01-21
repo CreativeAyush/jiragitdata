@@ -37,3 +37,4 @@ KOR-2937 - Epic: Cross-platform explicit firmware for notification-service
 KOR-2940 - Story: Pm sing perhaps recent. - notification-service
 KOR-2949 - Story: Add box media. - notification-service
 KOR-2981 - Bug: Ready rock scientist read doctor also listen consumer. in notification-service
+KOR-2984 - Story: Ask build yes. - notification-service
