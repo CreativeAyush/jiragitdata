@@ -31,3 +31,4 @@ KOR-2948 - Story: Type material language several alone. - auth-service
 KOR-2954 - Story: And billion remember wife. - auth-service
 KOR-2956 - Bug: Require so picture race sure question. in auth-service
 KOR-2960 - Task: Improve end Congress huge. - auth-service
+KOR-2970 - Bug: College door must military anything talk film. in auth-service
