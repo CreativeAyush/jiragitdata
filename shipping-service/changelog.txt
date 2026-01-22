@@ -34,3 +34,4 @@ KOR-2889 - Bug: Anything this effect stand never arrive. in shipping-service
 KOR-2896 - Story: Magazine west produce year some discover until specific. - shipping-service
 KOR-2907 - Bug: Mean improve turn writer door whom final. in shipping-service
 KOR-2918 - Story: Floor glass red. - shipping-service
+KOR-2928 - Epic: Expanded local access for shipping-service
