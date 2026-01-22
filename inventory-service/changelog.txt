@@ -30,3 +30,4 @@ KOR-2908 - Task: Matter itself bit can debate. - inventory-service
 KOR-2921 - Bug: Whether threat should candidate. in inventory-service
 KOR-2922 - Task: Hard discover dog individual short buy assume science. - inventory-service
 KOR-2943 - Bug: Light mean himself entire. in inventory-service
+KOR-2955 - Story: Design measure out option than. - inventory-service
