@@ -37,3 +37,4 @@ KOR-2918 - Story: Floor glass red. - shipping-service
 KOR-2928 - Epic: Expanded local access for shipping-service
 KOR-2933 - Task: Main eye among suggest affect. - shipping-service
 KOR-2936 - Epic: Cross-group optimizing projection for shipping-service
+KOR-2947 - Task: Of add on morning forward which step room. - shipping-service
