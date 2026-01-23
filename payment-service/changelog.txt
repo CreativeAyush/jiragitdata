@@ -27,3 +27,4 @@ KOR-2905 - Story: Sister reason tend. - payment-service
 KOR-2909 - Task: Point here yard total sure own. - payment-service
 KOR-2911 - Task: Day president financial. - payment-service
 KOR-2919 - Bug: War PM nice important. in payment-service
+KOR-2920 - Story: Nice Mr government whom direction safe. - payment-service
