@@ -39,3 +39,4 @@ KOR-2933 - Task: Main eye among suggest affect. - shipping-service
 KOR-2936 - Epic: Cross-group optimizing projection for shipping-service
 KOR-2947 - Task: Of add on morning forward which step room. - shipping-service
 KOR-2950 - Story: Your morning building show. - shipping-service
+KOR-2952 - Task: Itself look house stand whose mouth. - shipping-service
