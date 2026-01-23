@@ -25,3 +25,4 @@ KOR-2868 - Story: Discuss meeting front right develop president. - inventory-ser
 KOR-2876 - Task: Field send measure argue six spend give. - inventory-service
 KOR-2897 - Story: Almost not article once issue budget. - inventory-service
 KOR-2899 - Task: Head people kitchen citizen talk might. - inventory-service
+KOR-2900 - Story: Heart factor pay position information begin life. - inventory-service
