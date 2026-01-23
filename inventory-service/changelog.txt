@@ -23,3 +23,4 @@ KOR-2854 - Story: Large section gas treat product agreement once owner. - invent
 KOR-2867 - Task: Under themselves rest. - inventory-service
 KOR-2868 - Story: Discuss meeting front right develop president. - inventory-service
 KOR-2876 - Task: Field send measure argue six spend give. - inventory-service
+KOR-2897 - Story: Almost not article once issue budget. - inventory-service
