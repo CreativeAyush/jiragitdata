@@ -50,3 +50,4 @@ KOR-2961 - Story: Economic thought likely something early mean. - cart-service
 KOR-2969 - Story: Agent according everything human set. - cart-service
 KOR-2974 - Task: Rate occur why. - cart-service
 KOR-2975 - Story: Consumer job pretty purpose buy strong. - cart-service
+KOR-2982 - Epic: Future-proofed demand-driven Graphical User Interface for cart-service
