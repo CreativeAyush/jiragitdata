@@ -35,3 +35,4 @@ KOR-2896 - Story: Magazine west produce year some discover until specific. - shi
 KOR-2907 - Bug: Mean improve turn writer door whom final. in shipping-service
 KOR-2918 - Story: Floor glass red. - shipping-service
 KOR-2928 - Epic: Expanded local access for shipping-service
+KOR-2933 - Task: Main eye among suggest affect. - shipping-service
