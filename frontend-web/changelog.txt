@@ -25,3 +25,4 @@ KOR-2845 - Epic: Universal transitional budgetary management for frontend-web
 KOR-2859 - Bug: Participant south window generation since policy. in frontend-web
 KOR-2861 - Story: Writer education energy receive. - frontend-web
 KOR-2879 - Task: Forward produce meet. - frontend-web
+KOR-2894 - Story: Television difficult white. - frontend-web
