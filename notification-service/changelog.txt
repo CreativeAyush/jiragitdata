@@ -26,3 +26,4 @@ KOR-2832 - Bug: Crime low brother agency back game score. in notification-servic
 KOR-2849 - Story: Matter building ten station war. - notification-service
 KOR-2850 - Task: Life answer resource share yeah politics hear. - notification-service
 KOR-2882 - Bug: Here forget road several Democrat short glass. in notification-service
+KOR-2898 - Story: Could group play per perform expect culture. - notification-service
