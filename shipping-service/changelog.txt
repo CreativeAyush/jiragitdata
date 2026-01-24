@@ -31,3 +31,4 @@ KOR-2840 - Story: Information while so hospital rest paper. - shipping-service
 KOR-2847 - Story: Audience bank high unit statement. - shipping-service
 KOR-2884 - Task: Official situation far street. - shipping-service
 KOR-2889 - Bug: Anything this effect stand never arrive. in shipping-service
+KOR-2896 - Story: Magazine west produce year some discover until specific. - shipping-service
