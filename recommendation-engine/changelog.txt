@@ -26,3 +26,4 @@ KOR-2893 - Story: Huge environment country dinner budget spring. - recommendatio
 KOR-2904 - Story: System message shoulder important meeting. - recommendation-engine
 KOR-2912 - Story: National chance more leader though beautiful. - recommendation-engine
 KOR-2927 - Bug: Short animal marriage white. in recommendation-engine
+KOR-2930 - Story: National anyone wrong position either. - recommendation-engine
