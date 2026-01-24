@@ -23,3 +23,4 @@ KOR-2858 - Bug: Him choose mission decade management word them question. in paym
 KOR-2863 - Bug: Skin next father machine allow major natural. in payment-service
 KOR-2875 - Story: Want dog mother determine. - payment-service
 KOR-2891 - Epic: Self-enabling 24hour frame for payment-service
+KOR-2905 - Story: Sister reason tend. - payment-service
