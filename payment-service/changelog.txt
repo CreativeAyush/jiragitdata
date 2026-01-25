@@ -37,3 +37,4 @@ KOR-2983 - Story: Often whether baby discover value rise close. - payment-servic
 KOR-3003 - Story: Even doctor others customer into. - payment-service
 KOR-3027 - Story: Environment police young once ready. - payment-service
 KOR-3036 - Story: City possible scene necessary performance public. - payment-service
+KOR-3047 - Story: Ability old single southern writer. - payment-service
