@@ -39,3 +39,4 @@ KOR-3027 - Story: Environment police young once ready. - payment-service
 KOR-3036 - Story: City possible scene necessary performance public. - payment-service
 KOR-3047 - Story: Ability old single southern writer. - payment-service
 KOR-3050 - Story: Chance unit anyone kid school stage. - payment-service
+KOR-3067 - Task: Art nature most behind market. - payment-service
