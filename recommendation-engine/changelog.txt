@@ -41,3 +41,4 @@ KOR-3052 - Story: Theory remember sing look sister movie book. - recommendation-
 KOR-3057 - Epic: Organized needs-based moderator for recommendation-engine
 KOR-3061 - Story: Executive weight federal policy. - recommendation-engine
 KOR-3062 - Story: Form two military condition people line throughout. - recommendation-engine
+KOR-3066 - Story: Manager how much instead new. - recommendation-engine
