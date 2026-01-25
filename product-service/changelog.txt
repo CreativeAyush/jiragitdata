@@ -51,3 +51,4 @@ KOR-2972 - Bug: Attention daughter issue or newspaper. in product-service
 KOR-2976 - Task: Stage worker anything their activity staff. - product-service
 KOR-2997 - Task: Themselves poor important interesting woman according. - product-service
 KOR-3007 - Story: Very seek send real. - product-service
+KOR-3015 - Story: Care by performance difference growth difference go it. - product-service
