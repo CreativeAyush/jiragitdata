@@ -44,3 +44,4 @@ KOR-3031 - Task: No project address level there. - order-service
 KOR-3044 - Task: Memory total thing. - order-service
 KOR-3054 - Story: Easy story best money really glass forget. - order-service
 KOR-3072 - Story: Drive condition direction entire newspaper strategy. - order-service
+KOR-3077 - Story: Station public wall laugh on behavior. - order-service
