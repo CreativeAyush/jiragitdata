@@ -41,3 +41,4 @@ KOR-3000 - Task: Wear method data base including pretty. - order-service
 KOR-3008 - Story: Ground scene time social impact investment. - order-service
 KOR-3025 - Task: Matter who chair box enjoy young. - order-service
 KOR-3031 - Task: No project address level there. - order-service
+KOR-3044 - Task: Memory total thing. - order-service
