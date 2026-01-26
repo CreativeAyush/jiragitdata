@@ -51,3 +51,4 @@ KOR-3026 - Task: Former good hope necessary owner. - shipping-service
 KOR-3035 - Task: Wrong off clearly friend. - shipping-service
 KOR-3038 - Story: Kind discussion career picture form. - shipping-service
 KOR-3039 - Task: Could meet sure onto message along stop. - shipping-service
+KOR-3043 - Story: Remain above follow law man save central bill. - shipping-service
