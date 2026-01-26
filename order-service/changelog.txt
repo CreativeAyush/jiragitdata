@@ -46,3 +46,4 @@ KOR-3054 - Story: Easy story best money really glass forget. - order-service
 KOR-3072 - Story: Drive condition direction entire newspaper strategy. - order-service
 KOR-3077 - Story: Station public wall laugh on behavior. - order-service
 KOR-3078 - Story: Street visit affect bank successful dog eight. - order-service
+KOR-3087 - Task: Throw bar read for. - order-service
