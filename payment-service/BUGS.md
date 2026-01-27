@@ -4,3 +4,4 @@
 - Fixed KOR-2563
 - Fixed KOR-2566
 - Fixed KOR-2568
+- Fixed KOR-2578
