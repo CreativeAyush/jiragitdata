@@ -60,3 +60,4 @@ KOR-3048 - Task: Yeah civil almost. - product-service
 KOR-3056 - Bug: Hospital four base late anyone book economic. in product-service
 KOR-3064 - Task: Current seven if almost floor there. - product-service
 KOR-3073 - Epic: Expanded logistical workforce for product-service
+KOR-3084 - Bug: Condition carry close question. in product-service
