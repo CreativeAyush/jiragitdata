@@ -57,3 +57,4 @@ KOR-3006 - Task: Hotel old financial operation you get three. - cart-service
 KOR-3011 - Task: Table maintain trip show speak picture. - cart-service
 KOR-3017 - Task: Collection there from nothing Mrs ahead. - cart-service
 KOR-3020 - Task: Drop company authority fight nearly. - cart-service
+KOR-3029 - Bug: Hit along phone physical. in cart-service
