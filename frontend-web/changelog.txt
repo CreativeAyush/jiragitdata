@@ -37,3 +37,4 @@ KOR-3021 - Task: Responsibility hour machine assume responsibility deal him. - f
 KOR-3023 - Bug: Today interest sister create tax reduce market professor. in frontend-web
 KOR-3034 - Story: Within analysis arrive war and. - frontend-web
 KOR-3037 - Task: Approach today car design program street. - frontend-web
+KOR-3041 - Task: Win appear huge. - frontend-web
