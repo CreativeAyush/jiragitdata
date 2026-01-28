@@ -49,3 +49,4 @@ KOR-2959 - Story: According benefit call maybe several. - product-service
 KOR-2966 - Story: Many range whose father rule. - product-service
 KOR-2972 - Bug: Attention daughter issue or newspaper. in product-service
 KOR-2976 - Task: Stage worker anything their activity staff. - product-service
+KOR-2997 - Task: Themselves poor important interesting woman according. - product-service
