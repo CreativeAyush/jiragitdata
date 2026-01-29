@@ -54,3 +54,4 @@ KOR-2982 - Epic: Future-proofed demand-driven Graphical User Interface for cart-
 KOR-2986 - Task: Lay environmental opportunity foreign song court stay. - cart-service
 KOR-3004 - Story: Sure data edge nature could various. - cart-service
 KOR-3006 - Task: Hotel old financial operation you get three. - cart-service
+KOR-3011 - Task: Table maintain trip show speak picture. - cart-service
