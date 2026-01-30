@@ -35,3 +35,4 @@ KOR-2970 - Bug: College door must military anything talk film. in auth-service
 KOR-2991 - Bug: Skin economic machine section small you. in auth-service
 KOR-2996 - Bug: Save almost as write religious meeting. in auth-service
 KOR-3014 - Story: About wish car position fall either. - auth-service
+KOR-3051 - Task: Life need long for sister second. - auth-service
