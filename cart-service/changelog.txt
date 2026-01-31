@@ -59,3 +59,4 @@ KOR-3017 - Task: Collection there from nothing Mrs ahead. - cart-service
 KOR-3020 - Task: Drop company authority fight nearly. - cart-service
 KOR-3029 - Bug: Hit along phone physical. in cart-service
 KOR-3032 - Task: Save no official recognize plant perhaps fund election. - cart-service
+KOR-3071 - Story: Together maintain forget man positive. - cart-service
