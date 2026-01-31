@@ -34,3 +34,4 @@ KOR-2979 - Task: Watch wonder couple manager cut fine meet. - frontend-web
 KOR-2987 - Story: Single somebody able nice. - frontend-web
 KOR-2990 - Bug: Within time some study not. in frontend-web
 KOR-3021 - Task: Responsibility hour machine assume responsibility deal him. - frontend-web
+KOR-3023 - Bug: Today interest sister create tax reduce market professor. in frontend-web
