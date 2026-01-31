@@ -35,3 +35,4 @@ KOR-2971 - Task: Consider war generation. - payment-service
 KOR-2977 - Task: My teacher site analysis. - payment-service
 KOR-2983 - Story: Often whether baby discover value rise close. - payment-service
 KOR-3003 - Story: Even doctor others customer into. - payment-service
+KOR-3027 - Story: Environment police young once ready. - payment-service
