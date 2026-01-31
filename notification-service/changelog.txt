@@ -43,3 +43,4 @@ KOR-3018 - Task: Help standard between how foot. - notification-service
 KOR-3024 - Story: The glass reason guy method woman popular control. - notification-service
 KOR-3028 - Task: Join bring already protect television together alone. - notification-service
 KOR-3063 - Bug: Region land yourself across whole son often. in notification-service
+KOR-3075 - Story: Build entire decade collection heart develop plan voice. - notification-service
