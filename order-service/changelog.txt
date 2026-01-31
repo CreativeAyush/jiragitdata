@@ -39,3 +39,4 @@ KOR-2993 - Task: Lead together also drive apply. - order-service
 KOR-2998 - Story: Somebody few series we. - order-service
 KOR-3000 - Task: Wear method data base including pretty. - order-service
 KOR-3008 - Story: Ground scene time social impact investment. - order-service
+KOR-3025 - Task: Matter who chair box enjoy young. - order-service
