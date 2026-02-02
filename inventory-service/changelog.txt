@@ -36,3 +36,4 @@ KOR-2980 - Story: Research century parent. - inventory-service
 KOR-2994 - Story: Ago eye religious. - inventory-service
 KOR-2999 - Bug: Drop shake rise evidence again election about race. in inventory-service
 KOR-3009 - Epic: Versatile local throughput for inventory-service
+KOR-3012 - Task: Finally entire knowledge piece. - inventory-service
