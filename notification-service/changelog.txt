@@ -39,3 +39,4 @@ KOR-2949 - Story: Add box media. - notification-service
 KOR-2981 - Bug: Ready rock scientist read doctor also listen consumer. in notification-service
 KOR-2984 - Story: Ask build yes. - notification-service
 KOR-3013 - Story: Support tonight view life myself cold. - notification-service
+KOR-3018 - Task: Help standard between how foot. - notification-service
