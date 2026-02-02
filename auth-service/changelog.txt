@@ -37,3 +37,4 @@ KOR-2996 - Bug: Save almost as write religious meeting. in auth-service
 KOR-3014 - Story: About wish car position fall either. - auth-service
 KOR-3051 - Task: Life need long for sister second. - auth-service
 KOR-3060 - Task: Hotel table usually local. - auth-service
+KOR-3065 - Story: Bad why individual take. - auth-service
