@@ -38,3 +38,4 @@ KOR-3016 - Story: Box worry significant decide. - recommendation-engine
 KOR-3040 - Task: Thousand daughter once line. - recommendation-engine
 KOR-3042 - Story: Available pattern arrive war. - recommendation-engine
 KOR-3052 - Story: Theory remember sing look sister movie book. - recommendation-engine
+KOR-3057 - Epic: Organized needs-based moderator for recommendation-engine
