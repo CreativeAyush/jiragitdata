@@ -54,3 +54,4 @@ KOR-3039 - Task: Could meet sure onto message along stop. - shipping-service
 KOR-3043 - Story: Remain above follow law man save central bill. - shipping-service
 KOR-3045 - Task: Employee parent order. - shipping-service
 KOR-3053 - Story: Only four could local. - shipping-service
+KOR-3055 - Story: Tax energy so opportunity. - shipping-service
