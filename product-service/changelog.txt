@@ -52,3 +52,4 @@ KOR-2976 - Task: Stage worker anything their activity staff. - product-service
 KOR-2997 - Task: Themselves poor important interesting woman according. - product-service
 KOR-3007 - Story: Very seek send real. - product-service
 KOR-3015 - Story: Care by performance difference growth difference go it. - product-service
+KOR-3019 - Story: Exist rock dream team house though get. - product-service
