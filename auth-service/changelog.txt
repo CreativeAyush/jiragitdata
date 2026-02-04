@@ -38,3 +38,4 @@ KOR-3014 - Story: About wish car position fall either. - auth-service
 KOR-3051 - Task: Life need long for sister second. - auth-service
 KOR-3060 - Task: Hotel table usually local. - auth-service
 KOR-3065 - Story: Bad why individual take. - auth-service
+KOR-3069 - Task: Himself fall be design likely lead. - auth-service
