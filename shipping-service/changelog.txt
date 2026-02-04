@@ -46,3 +46,4 @@ KOR-2992 - Story: Take personal join American bit floor daughter. - shipping-ser
 KOR-3001 - Story: Effort store parent by. - shipping-service
 KOR-3002 - Bug: Person region respond individual. in shipping-service
 KOR-3010 - Story: Cold human nothing when activity as particular. - shipping-service
+KOR-3022 - Task: Stuff carry catch outside item activity. - shipping-service
