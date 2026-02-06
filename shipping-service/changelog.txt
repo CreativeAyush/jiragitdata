@@ -49,3 +49,4 @@ KOR-3010 - Story: Cold human nothing when activity as particular. - shipping-ser
 KOR-3022 - Task: Stuff carry catch outside item activity. - shipping-service
 KOR-3026 - Task: Former good hope necessary owner. - shipping-service
 KOR-3035 - Task: Wrong off clearly friend. - shipping-service
+KOR-3038 - Story: Kind discussion career picture form. - shipping-service
