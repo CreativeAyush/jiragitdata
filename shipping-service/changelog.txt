@@ -43,3 +43,4 @@ KOR-2952 - Task: Itself look house stand whose mouth. - shipping-service
 KOR-2965 - Story: Nation during car so probably. - shipping-service
 KOR-2989 - Bug: Report ability effort debate adult red. in shipping-service
 KOR-2992 - Story: Take personal join American bit floor daughter. - shipping-service
+KOR-3001 - Story: Effort store parent by. - shipping-service
